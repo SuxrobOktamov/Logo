@@ -1,0 +1,92 @@
+body{
+    background-color: #3c2d55;
+}
+
+.logo1{
+    width: 400px;
+    height: 400px;
+    background: linear-gradient(180deg,#ff0057a8, #ff784e);
+    border-radius: 50%;
+    z-index: 5;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.logo2{
+    z-index: 11;
+    width: 400px;
+    height: 400px;
+    background-color: #3c2d55;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-104%, -50%);
+}
+.logo3{
+    position: absolute;
+    width: 173px;
+    height: 156px;
+    background-color: #fff;
+    border-top-right-radius: 96%;
+    top: 50%;
+    left: 50%;
+    z-index: 21;
+    transform: translate(-9%, -97%);
+}
+.logo4{
+    position: absolute;
+    width: 173px;
+    height: 156px;
+    background-color: #5764a936;
+    border-bottom-right-radius: 96%;
+    top: 50%;
+    left: 50%;
+    z-index: 20;
+    transform: translate(-9%, -4%);
+}
+.logo5{
+    position: absolute;
+    width: 164px;
+    height: 156px;
+    background-color: #f5c947b5;
+    border-top-left-radius: 100%;
+    z-index: 12;
+    top: 50%;
+    left: 50%;
+    transform: translate(-102%, -97%);
+}
+.logo6{
+    position: absolute;
+    width: 72px;
+    height: 70px;
+    background-color: #b98d08;
+    border-bottom-left-radius: 100%;
+    z-index: 25;
+    left: 50%;
+    top: 50%;
+    transform: translate(-122%, 5%);
+}
+.logo7{
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    background-color: black;
+    border-radius: 50%;
+    top: 50%;
+    left: 50%;
+    z-index: 26;
+    transform: translate(-29%, -93%);
+
+}
+.logo8{
+    position: absolute;
+    width: 173px;
+    height: 156px;
+    background-color: #fff;
+    border-bottom-right-radius: 96%;
+    top: 50%;
+    left: 50%;
+    z-index: 19;
+    transform: translate(-9%, -4%);
+}
